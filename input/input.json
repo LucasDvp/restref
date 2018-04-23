@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Azure REST API",
+    "scope": "Azure",
+    "toc_url": "https://docs.microsoft.com/en-us/rest/api/toc.json"
+  },
+  {
+    "name": "VSTS REST API",
+    "scope": "VSTS",
+    "toc_url": "https://docs.microsoft.com/en-us/rest/api/vsts/toc.json"
+  },
+  {
+    "name": "Dynamics 365 Online Management REST API",
+    "scope": "Dynamics 365 Online Management",
+    "toc_url": "https://docs.microsoft.com/en-us/rest/api/dynamics365/toc.json"
+  },
+  {
+    "name": "Kaizala REST API",
+    "scope": "Kaizala",
+    "toc_url": "https://docs.microsoft.com/en-us/rest/api/kaizala.microsoft.com/toc.json"
+  }
+]
