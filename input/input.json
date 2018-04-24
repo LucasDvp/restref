@@ -2,7 +2,7 @@
   {
     "name": "Azure REST API",
     "scope": "Azure",
-    "toc_url": "https://docs.microsoft.com/en-us/rest/api/toc.json"
+    "toc_url": "https://docs.microsoft.com/en-us/rest/api/azure/toc.json"
   },
   {
     "name": "VSTS REST API",

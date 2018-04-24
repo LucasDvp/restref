@@ -33,6 +33,7 @@ function getDes(data) {
 	const desObj = domFilterUtil(mainObj, 'p')[0];
 	//get des data
 	const desContent = getPlainText(desObj);
+	
 	return desContent ? desContent : defaultDesContent;			
 }
 
