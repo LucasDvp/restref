@@ -3,7 +3,7 @@
     "name": "Azure REST API",
     "scope": "Azure",
     "services": [ ]
-  }, 
+  },
   {
     "name": "VSTS REST API",
     "scope": "VSTS",
