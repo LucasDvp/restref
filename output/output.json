@@ -2,8 +2,8 @@
   {
     "name": "Azure REST API",
     "scope": "Azure",
-    "services": [ ]
-  }, 
+    "services": []
+  },
   {
     "name": "VSTS REST API",
     "scope": "VSTS",
